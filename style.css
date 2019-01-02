@@ -1,16 +1,4 @@
-.container {
-    max-width: 1200px;
-    width: 100%;
-    margin: 0 auto;
-}
+body {
+  background-color: #e9ad14; }
 
-h2,
-p,
-.verse {
-    text-align: center;
-}
-
-.verse {
-    max-width: 600px;
-    margin: 0 auto;
-}
+/*# sourceMappingURL=style.css.map */
